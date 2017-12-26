@@ -1,6 +1,15 @@
 1）代码块函数体
   fun fuk(a:Int){
       print('This is code type function')
+      
+     //try表达式
+    val score = try { 
+        //TODO
+    } catch (e: Exception) { 
+        return
+    }
+    
+  
   }
   
   
