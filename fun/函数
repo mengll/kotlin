@@ -1,0 +1,9 @@
+1）代码块函数体
+  fun fuk(a:Int){
+      print('This is code type function')
+  }
+  
+  
+2)表达式函数体
+
+fun sum(a: Int, b: Int): Int = a + b    //表达式函数体
