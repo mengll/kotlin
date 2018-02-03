@@ -1,0 +1,5 @@
+Kotlin 中的任何表达式，都可以使用标签来标记（label）来标记。标签的格式为标签后面跟@ 符号 例如 abc@都是有效的标签 
+
+loop@ for (i in 1..100){
+      break@loop 跳转到loop
+}
